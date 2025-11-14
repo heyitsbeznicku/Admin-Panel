@@ -29,7 +29,7 @@ Visit [beznicku.pl](https://beznicku.pl/) to see it in action.
 
 Quick Windows open example:
 ```bat
-start "" "e:\path\to\AdminPanel.html"
+start "" "c:\path\to\AdminPanel.html"
 ```
 
 ## Usage
