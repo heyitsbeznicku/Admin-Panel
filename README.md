@@ -13,7 +13,7 @@ Modern, dark admin panel UI built with HTML, CSS and minimal JavaScript. Include
 
 ## Demo / Preview
 Open:
--[AdminPanel.html](https://beznicku.pl/)
+-[beznicku.pl](https://beznicku.pl/)
 in a browser to view the panel.
 
 ## Technologies
@@ -24,8 +24,8 @@ in a browser to view the panel.
 
 ## Installation / Run locally
 1. Clone or copy the project.
-2. Ensure `Assets/AdminPanel.html` and `Assets/AdminPanel.css` are present.
-3. Open `Assets/AdminPanel.html` in a modern browser (no build step required).
+2. Ensure `AdminPanel.html` and `AdminPanel.css` are present.
+3. Open `AdminPanel.html` in a modern browser (no build step required).
 
 
 ## Usage
