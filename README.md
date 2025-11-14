@@ -81,4 +81,4 @@ MIT — free to use and modify. Include attribution if reused publicly.
 ## Author & Contact
 - Created by bez_nicku
 - Email: heyitsbeznicku@gmail.com
-- Website: https://beznicku.pl
+- Website: [beznicku.pl](https://beznicku.pl/)
